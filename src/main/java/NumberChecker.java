@@ -8,6 +8,7 @@ public class NumberChecker {
         return isEven(sum) ? EVEN : ODD;
     }
 
+    //Pertambahan
     private static int calculateSum(int[] numbers) {
         int sum = 0;
         for (int number : numbers) {
