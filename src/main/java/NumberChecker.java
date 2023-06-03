@@ -1,7 +1,7 @@
 public class NumberChecker {
 
     public static final String EVEN = "even";
-    public static final String ODD = "odd";
+    public static final String ODD = "oddd";
 
     public static String evenOrOdd(int[] numbers) {
         int sum = calculateSum(numbers);
